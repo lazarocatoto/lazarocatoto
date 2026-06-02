@@ -101,7 +101,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Bacharelado-Engenharia_Informática-0A192F?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Instituto-Supeior-Politécnico_Tocoísta-1E3A8A?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instituto_Supeior-Politécnico_Tocoísta-1E3A8A?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/IBM-Data_Literacy-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 
 </p>
