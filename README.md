@@ -92,9 +92,23 @@
 <img src="https://skillicons.dev/icons?i=github" title="GitHub - Repositórios"/>
 <img src="https://skillicons.dev/icons?i=linux" title="Linux - Sistema Operativo"/>
 
-</p>
+<p align="center">
 
----
+<img src="https://img.icons8.com/fluency/48/electrical.png" title="Eletricidade de Média Tensão (AC/DC 1.000 a 69.000 volts)"/>
+
+<img src="https://img.icons8.com/color/48/circuit.png" title="Eletrónica Analógica (Resistores, Capacitores, Transístores)"/>
+
+<img src="https://img.icons8.com/color/48/electronics.png" title="Eletrónica Digital (Portas Lógicas, Circuitos Binários)"/>
+
+<img src="https://img.icons8.com/fluency/48/maintenance.png" title="Montagem e Diagnóstico de Circuitos Eletrónicos"/>
+
+<img src="https://img.icons8.com/color/48/laptop.png" title="Reparação e Manutenção de Computadores (Hardware & Software)"/>
+
+<img src="https://img.icons8.com/fluency/48/settings.png" title="Diagnóstico de Sistemas, Formatação e Recuperação"/>
+
+<img src="https://img.icons8.com/color/48/customer-support.png" title="Suporte Técnico IT & Helpdesk"/>
+
+</p>
 
 # 🎓 Formação & Certificações
 
